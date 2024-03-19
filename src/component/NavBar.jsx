@@ -97,28 +97,28 @@ const chnagModeFrom = ()=>{
             </Transition>
           </Popover>
 
-          <a href="/About" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="https://react-routing-vite.vercel.app/About" className="text-sm font-semibold leading-6 text-gray-900">
                About
           </a>
-          <a href="/UseEffectEx" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="https://react-routing-vite.vercel.app/UseEffectEx" className="text-sm font-semibold leading-6 text-gray-900">
                UseEffect
           </a>
 
-          <a href="/UseRef" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="https://react-routing-vite.vercel.app/UseRef" className="text-sm font-semibold leading-6 text-gray-900">
                UseRef
           </a>
 
 
-          <a href="/Ticket" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="https://react-routing-vite.vercel.app/Ticket" className="text-sm font-semibold leading-6 text-gray-900">
             Ticket
           </a>
-          <a href="/Card" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="https://react-routing-vite.vercel.app/Card" className="text-sm font-semibold leading-6 text-gray-900">
                User
           </a>
            
           
 
-          <a href="/login" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="https://react-routing-vite.vercel.app/login" className="text-sm font-semibold leading-6 text-gray-900">
             Login
           </a>
         </Popover.Group>
